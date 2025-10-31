@@ -1,0 +1,151 @@
+Exported by,ExportComments.com,,,,,,,,
+Source URL,https://www.reddit.com/r/AskPhysics/comments/10genmw/why_has_dark_matter_been_widely_accepted_rather/,,,,,,,,
+Timezone,,,,,,,,,
+Summary,Author: Fragrant_Thanks_6603 | Score: 201 | Votes UP: 201 (Ratio 97%) | Votes DOWN: 0,,,,,,,,
+Some Comments may not appear here because of their privacy settings,,,,,,,,,
+,,,,,,,,,
+,,Author,Date,Votes UP,Votes Down,Score,Message,isPremium,(view source)
+1,,Fragrant_Thanks_6603,19/01/23,201,,201,Why has dark matter been widely accepted rather than the theory of gravity being incomplete?,no,view comment
+2,,RussColburn,19/01/23,31,,31,"There have been many attempts to modify gravity - look up MOND. The problem so far with MOND has been it explains a few things better than General Relativity and dark matter, but then can't explain a number of things that dark matter does explain, such as the Bullet Cluster. In the colliding galaxies of the cluster, we see gravitational effects from something passing through the collision without any effects while the baryonic matter has slowed down due to collisions. If it was because of gravity, we would expect all the gravitational effects to remain with the baryonic matter.
+
+I've followed MOND and its brethren for a decade or so as it did seem to have a future, but its holes continue to plague it.",no,view comment
+3,,Nerull,19/01/23,17,,17,Because it fits the observational evidence better.,no,view comment
+4,,Fragrant_Thanks_6603,19/01/23,9,,9,"I was under the impression that when galaxies “collide”, the individual stars within don’t for the most part experience collisions, but effect each other through gravity. So why is the baryonic matter affected differently than dark matter, if they both are for the most part being affected by gravity in the galactic collision? Perhaps I was under the wrong impression?",no,view comment
+5,,DrunkenPhysicist,19/01/23,7,,7,"The problem is how? General relativity stems from two postulates: the laws of physics are the same in all frames of reference and that gravitational mass and inertial mass are the same (or you cannot distinguish gravitational acceleration from other types). One, or both, of these postulates would need to be broken to modify our understanding of gravity. People try, but serious consequences arise if you break these. Granted, many physicists claim that they must be broken because it's not a quantum theory, but who knows?",no,view comment
+6,,isparavanje,19/01/23,267,,267,"Finally, something that I specialise in!
+
+The key reason is that there are many different pieces of evidence that relatively independently point towards dark matter. These include (non-exhaustive list) galaxy rotation curves, of course, but also large scale structure formation, baryon-acoustic oscillations and the power matter spectrum of the universe, the cosmic microwave background, strong lensing of galaxy clusters, and colliding clusters (bullet cluster for example).
+
+These pieces of evidence stretch across many different scales, from that of the largest scales in the universe (structure formation) to the smallest galaxies that we can reliably measure the mass of using rotation curves.
+
+It is perhaps possible to string together a theory that explains everything using modified gravity, but it hasn't really been done yet. Some attempts do come close, though; there was [a paper a few years ago on PRL](https://arxiv.org/abs/2007.00082) that does manage to partially explain the CMB with modified gravity. The issue is that once we get into really really complex modifications to theory, the fundamental attractiveness of modified gravity goes away; this intricate theory with all the frills needed to explain disparate observations is far more complex than just 'oh yeah there's some stuff we haven't managed to detect or produce in a lab yet'. The latter is also quite easy to believe since we've been finding new particles in the lab every once in a while for decades now. 
+
+In addition, even the paper I mentioned also, as far as I know, still doesn't explain all the pieces of evidence (see: https://arxiv.org/abs/2007.00082). It looks likely that modified gravity theories need dark matter to work (for an example, see: https://arxiv.org/abs/2009.11292), so dark matter probably exists, regardless of whether our understanding of gravity is complete. To be clear, I am glad people are working on modified gravity theories still. We don't want to have blind spots in science. However, I think it is far less promising an avenue of research, and it is not what I am spending my time on. I spend my time on reddit instead (/s...kinda)",no,view comment
+7,,tacoman202,19/01/23,24,,24,"Even though the material in galaxies is significantly spread out (Relatively speaking), collisions on smaller scales, for example between atoms/molecules of interstellar gas, can cause visible shock fronts due to interactions in the baryonic matter.
+
+Sixty Symbols did a good video on the Bullet Cluster which touches on some of your questions. You can see that there's a discrepancy in the location of the visible matter and where a sizable chunk of the actual mass is located. The reason is because the dark matter halos can simply pass through each other, because they only interact through gravitational forces and therefore can't collide, like baryonic matter can due to electromagnetic forces. 
+
+[https://www.youtube.com/watch?v=xBe-5KSFXEs](https://www.youtube.com/watch?v=xBe-5KSFXEs)",no,view comment
+8,,isparavanje,19/01/23,17,,17,"Most of the baryonic matter in these clusters is actually diffuse gas, not stars!",no,view comment
+9,,Fragrant_Thanks_6603,19/01/23,56,,56,Thanks so much! This is exactly the kind of answer I was looking for.,no,view comment
+10,,Fragrant_Thanks_6603,19/01/23,10,,10,"Thanks, this was a source of confusion",no,view comment
+11,,florinandrei,19/01/23,47,,47,"> string together a theory
+
+Leonard Susskind be like - yeah, definitely. ;)",no,view comment
+12,,florinandrei,19/01/23,9,,9,Exactly. All science basically boils down to this.,no,view comment
+13,,atremblein,20/01/23,6,,6,"What piece of evidence points most towards dark matter not existing...i.e. statistically it shouldn't happen if dark matter exists?
+
+For example, I thought I read something about early galaxy formation occurring faster than what was previous thought even with dark matter which I would think would suppose either modifying gravity, or dark matter or both, or some other equation so that it converges with the evidence. I could be remembering wrong tho, this is a hypothetical example.",no,view comment
+14,,Auroku222,20/01/23,1,,1,So it wasnt just me lol,no,view comment
+15,,nivlark,20/01/23,12,,12,"The biggest disagreements are found on small scales, where ""small"" here means dwarf galaxies. There are various issues that see a lot of discussion in the literature - some examples are the core/cusp problem, and the missing satellites, too-big-to-fail, and plane of satellites problems.
+
+Some people hold that these are either clear evidence that the dark matter model is fatally flawed, but the general consensus is that none of them have evidence compelling enough to discredit the many successes of the model.",no,view comment
+16,,LilQuasar,20/01/23,29,,29,[relevant xkcd :)](https://xkcd.com/1758/),no,view comment
+17,,LoganJFisher,20/01/23,12,,12,"That's not strictly true. It's the simplest possible theory that satisfies those, but that doesn't make it the only possible theory that does.",no,view comment
+18,,heisenberger,20/01/23,3,,3,what are baryon-acoustic oscillations and the power matter spectrum of the universe?,no,view comment
+19,,Rattus_Rat,20/01/23,5,,5,"My favourite recent nugget of discovery is from JWST, with observations of galaxies so early in the universe that it seems impossible. One hypothesis is that dark matter was able to form clumps more quickly than matter, which then attracted the matter into them to form galaxies and clusters. The formation of dark matter might also dictate the shapes of different galaxies. Cool ??
+
+Couldn't find the direct article but this has some of the same physics:
+
+https://phys.org/news/2020-03-dark-massive-galaxies.html",no,view comment
+20,,hroderickaros,20/01/23,1,,1,"The are several aspects. First, the theory of gravity is incomplete because there is this thing called quantum gravity that every high energy physicist is sure exists. Therefore, a new theory of gravity should emerge eventually. 
+
+Second, doing that is easier and faster. Considering alternative theories requires to dismiss the interpretation of the observations of the last 70 years. That has been tried many times. The only pseudo-successful modification to my knowledge is called MOND, which is only a modification of Newton's theory, and not GR, and try thus even more incompatible with quantum mechanics. 
+
+Third, we know for certain that there must be a plethora of particles that could qualify as dark matter, even without modifying the standard model. In other words, there is dark matter we like it or not.",no,view comment
+21,,the_poope,20/01/23,13,,13,"Just adding that the Wikipedia article on this matter is pretty good and accessible and contains a list of ""observational evidence"" and discussion of alternative theories: https://en.wikipedia.org/wiki/Dark_matter#Observational_evidence",no,view comment
+22,,Unobtanium_Alloy,20/01/23,10,,10,"Honestly, the complex gymnastics needed for MOND has long reminded me of the problem with epicycles",no,view comment
+23,,isparavanje,20/01/23,5,,5,"The wiki page for structure formation is quite a good overview of this, but in general structure formation refers to the process of structures (filaments, clusters, galaxies, etc.) forming in the early universe, and BAO refers to oscillations in the primordial plasma of the early universe, which still leaves imprints in the universe that we can see.",no,view comment
+24,,AstroBullivant,20/01/23,1,,1,"I think “dark matter”, which really is a terrible name as it is theorized to be fully transparent, is the most popular theory because MoND uses adjustable parameters. Still, I actually lean towards MoND, but I still strongly consider Dark Matter. 
+
+If gravity and electromagnetism unify, we just might one day discover conditions in which gravity is induced, which could explain galaxy motion and formation without dark matter. Until then, we only have dark matter, MoND, and emergent gravity. Emergent gravity has probably been falsified too",no,view comment
+25,,nivlark,20/01/23,8,,8,"Dark matter forming structures earlier is a standard part of galaxy formation theory. What the JWST galaxies are suggesting (if confirmed) is that the messy process of forming stars within those clumps happened faster than the models predict - which is by no means impossible, just unexpected.",no,view comment
+26,,EducationalThroat593,20/01/23,,,0,">Finally, something that I specialise in!  
+>  
+>The key reason is that there are many different pieces of evidence that relatively independently point towards dark matter. These include (non-exhaustive list) galaxy rotation curves, of course, but also large scale structure formation, baryon-acoustic oscillations and the power matter spectrum of the universe, the cosmic microwave background, strong lensing of galaxy clusters, and colliding clusters (bullet cluster for example).  
+>  
+>These pieces of evidence stretch across many different scales, from that of the largest scales in the universe (structure formation) to the smallest galaxies that we can reliably measure the mass of using rotation curves.  
+>  
+>It is perhaps possible to string together a theory that explains everything using modified gravity, but it hasn't really been done yet. Some attempts do come close, though; there was a paper a few years ago on PRL that does manage to partially explain the CMB with modified gravity. The issue is that once we get into really really complex modifications to theory, the fundamental attractiveness of modified gravity goes away; this intricate theory with all the frills needed to explain disparate observations is far more complex than just 'oh yeah there's some stuff we haven't managed to detect or produce in a lab yet'. The latter is also quite easy to believe since we've been finding new particles in the lab every once in a while for decades now.  
+>  
+>In addition, even the paper I mentioned also, as far as I know, still doesn't explain all the pieces of evidence (see: https://arxiv.org/abs/2007.00082). It looks likely that modified gravity theories need dark matter to work (for an example, see: https://arxiv.org/abs/2009.11292), so dark matter probably exists, regardless of whether our understanding of gravity is complete. To be clear, I am glad people are working on modified gravity theories still. We don't want to have blind spots in science. However, I think it is far less promising an avenue of research, and it is not what I am spending my time on. I spend my time on reddit instead (/s...kinda)
+
+Yes, but I still don't think alternative theories are given the same priority as the dark matter paradigm.",no,view comment
+27,,AstroBullivant,20/01/23,2,,2,Some versions of MoND explain the bullet cluster,no,view comment
+28,,Aseyhe,20/01/23,11,,11,Should they? I would say that's a natural outcome of them being less compelling to most of the community (for the reasons given).,no,view comment
+29,,pharmakos144,20/01/23,,,0,"Check this out, hot off the press science: https://scitechdaily.com/modified-gravity-emerges-as-leading-explanation-for-dark-matter-following-new-galaxy-rotation-measurements/",no,view comment
+30,,pharmakos144,20/01/23,,,0,"There's been a few pretty good attempts lately to explain away dark matter, I like the fractal gravity models.
+
+https://arxiv.org/abs/2011.04911",no,view comment
+31,,pharmakos144,20/01/23,1,,1,"I like fractal MOND to answer some of those objections but still a lot of calculating to do.
+
+https://www.researchgate.net/publication/1840875_Gravitational_force_distribution_in_fractal_structures",no,view comment
+32,,AstroBullivant,20/01/23,,,0,What do you think about wide binary systems?,no,view comment
+33,,isparavanje,20/01/23,3,,3,What about them? They don't seem to be pointing very strongly either way from the couple papers I find. (Eg. [https://arxiv.org/abs/2205.02846](https://arxiv.org/abs/2205.02846)),no,view comment
+34,,TakeOffYourMask,20/01/23,5,,5,"As a modified gravity person I want to add: 
+
+There’s so much more to modified gravity than MOND, which is an ad hoc modification of *Newtonian* gravity. In fact, most of the literature on modified gravity barely mentions MOND, as the field is primarily concerned with modifying *Einsteinian* gravity (General Relativity) for a variety of reasons (including patching potential issues with GR, developing a quantum theory of gravity, and yes maybe even accounting for DE and/or DM).",no,view comment
+35,,Rattus_Rat,20/01/23,1,,1,Rad ??,no,view comment
+36,,iXEMBER,20/01/23,-3,,-3,"The black hole sun underneath our plane creates ""gravity""..or an electromagnetic field. Its energy is the flow of us all and living things and we live by its cycle.. for eg. The sun and moon spin above us because of its magnetic field. When you see the aurora borealis that's also the energy of the black sun made of ""dark matter"" ""Ether"" ""Aether"" ""melanin"" or ""element 115"".. many names for it.",no,view comment
+37,,iXEMBER,20/01/23,-4,,-4,The number 9 itself has an important tie to those also,no,view comment
+38,,isparavanje,21/01/23,4,,4,"Oh, just to be clear, I am referring to modified gravity as a solution to dark matter when I said I think it's less promising. I think the DE/hubble constant side of things is far more interesting; I just perhaps oversimplified a bit.",no,view comment
+39,,AstroBullivant,21/01/23,,,0,"A lot of wide-binaries can't be described by the most popular dark matter theories:
+
+[https://iopscience.iop.org/article/10.3847/1538-4357/ab7db2](https://iopscience.iop.org/article/10.3847/1538-4357/ab7db2)
+
+[https://www.sciencealert.com/a-binary-star-is-flying-out-of-our-galaxy-and-researchers-don-t-know-why](https://www.sciencealert.com/a-binary-star-is-flying-out-of-our-galaxy-and-researchers-don-t-know-why)",no,view comment
+40,,Icy-Ad5837,22/01/23,3,,3,"My university was hiring a new professor and asked the students to sit in on the candidates’ research presentations. One of them, an astrophysicist, explored the option that dark matter isn’t real, but that there is a phenomenon that can be described as “mini big bangs” occurring throughout the universe that supplied gravitational forces that could explain the phenomena that we blame dark matter for. Basically she was advocating for MOND. Several of the faculty at the school conducted research related to dark matter. Needlessness to say, the tension in the room was thick.  The most senior professor of the department that specializes in cosmology asked passive aggressive questions while  sunk in a chair, arms crossed, and feet crossed up on table. The whole thing was entertaining as hell. Drama between physicists knows no bounds.",no,view comment
+41,,Rainmakerrrrr,25/01/23,,,0,"~~I as a layman think matter is just one of the things which lead to gravitation. But this result can also existent without matter beeing around. ""Dark matter"" doesnt exist and is just to be understood as the alternative to matter induced gravity. Focusing on established terms they just used ""dark matter"" to describe this phaenomenon. Going with Einstein (here) I assume the prolonging ""distortion of spacetime"" can exist without matter probably on quantum gravitational level, which at some point will be discovered, explaining general relativity and making it obsolete.~~
+
+~~Also: Unobservable matter. If we got with ""only mass causes gravity"" then there must be mini black holes the size e.g. a penny?~~
+
+Here is a good video about MOND, explaining why the theory of gravity might be just incomplete ([https://www.youtube.com/watch?v=zZYHPSONxqI](https://www.youtube.com/watch?v=zZYHPSONxqI))",no,view comment
+42,,[deleted],25/01/23,1,,1,"“The simplest explanation is usually the right one.”  
+
+Probably a stolen quote. 
+
+
+
+Dark Matter is simply the best explanation we have. MoND is not able to explain galaxies like those in the Bullet Cluster and is filled with a lot of uncertainty.",no,view comment
+43,,uhidk17,26/01/23,1,,1,It’s a lot more difficult and complicated to modify gravity than it is to add another particle. But there have been many attempts.,no,view comment
+44,,flipacoin7777,29/01/23,1,,1,"It's important to investigate the science of the other side of this and in all subjects, the evidence against dark matter. A find a lot of science consumers who are one-sided in their research. Many purveyors of scientific viewpoints encourage those not to look dissenting ones with use of broad-brushing assertions. These include attacking sources or people. Looking at both sides of all issues is the intellectual thing to do. Not just selecting those to listen to and taking on faith they are correct.  The definition of 'evidence' has been cockeyed for a long time in order to keep people from looking at both sides of issues. It is self-serving for the purveyors of the science.   
+
+
+Here is just as a for instance showing dark matter theory is not a slam dunk...https://astronomy.com/news/2018/05/the-case-against-dark-matter",no,view comment
+45,,rayschoon,31/01/23,1,,1,"Is dark matter likely to be a different type of matter, or just a bunch of dust that’s not really detectable cause it’s too cold?",no,view comment
+46,,rayschoon,31/01/23,1,,1,There it is hahaha,no,view comment
+47,,isparavanje,31/01/23,3,,3,"The density of regular matter is predicted by nucleosynthesis, and it all appears to be accounted for, so there can't really be enough regular (baryonic) matter to make up the dark matter density needed.",no,view comment
+48,,rayschoon,31/01/23,1,,1,"My accounted for, you mean that there’s enough “light matter” that comprises all baryonic matter that should exist?",no,view comment
+49,,isparavanje,31/01/23,3,,3,"yeah, basically we've found where most (>80%) of light matter is hiding. See: https://en.wikipedia.org/wiki/Missing\_baryon\_problem#Claimed\_resolution",no,view comment
+50,,imdfantom,02/02/23,1,,1,"Happy cake day. 
+
+Are there any Dark matter candidates that you prefer? If so which?
+
+Also, are there any modified gravity theories in which the gravitational interaction is split into different sub-interactions? (Eg. Like how EM and The Weak interactions are separate, but under certain conditions they act the same)",no,view comment
+51,,isparavanje,02/02/23,1,,1,"I don't work that much on modified gravity, so I can't answer the latter question.
+
+I am somewhat partial to axions and black hole relics. The latter is the idea that black hole evaporation leaves behind a ""relic"" that's approximately the planck mass, and if there's a large population of low-mass primordial black holes in the early universe, we'd expect a ton of these. It's very speculative, though! I like these candidates but it's mostly just opinion.
+
+Also thanks :)",no,view comment
+52,,Xyex,07/02/23,1,,1,"There are those pursuing the idea that our theory of gravity is off. Though none of the alternative theories work as well as what we've got now. Plus, the existence of dark matter is, essentially, proven by the fact we've found galaxies *without* it. Galaxies that fit the standard gravity model minus the dark matter adjustments needed elsewhere. Which wouldn't be possible if there was an issue with the model, unless something weird is happening in those few galaxies that coincidentally makes them behave as though dark matter wasn't there.",no,view comment
+53,,godowskyliszt,08/02/23,2,,2,"It's also worth noting that we DO see classical radial velocities in some galaxies. In direct response to OPs post, I would wager it's precisely the absence of a purported effect of DM that strengthens the case FOR DM. For example, in any MToG model, the same physics has to hold uniformly, so we shouldn't be able to spot galaxies that DON'T have a behavior consistent with the MToG in question. Yet such galaxies do exist; many of these can be Googled or seen in various research papers, like AGC 114905 et al...
+
+In other words, more broadly, if an explanation for phenomenon X by DM is theory A and one by modified gravity is theory B, the fact that B has to hold in every case strengthens the evidence for A if X is not observed everywhere X applies. While we don't know enough about DM to profer an explicit mechanism for e.g. ""dark matter stripping,"" the absence of DM effects in some galaxies strengthens the applicability of that theory over one relying on modified theories of gravity. 
+
+Fwiw, I appreciate the mention of the power matter spectrum! Should be cited more often in this forum. Since you appear to be in active research, my deepest condolences for your inbox, which is most likely stuffed with emails from folks purporting to have cracked DM conundra with a new modified theory...",no,view comment
+54,,isparavanje,08/02/23,2,,2,"Yes, that's true as well, that's why I said non-exhaustive :)
+
+And I mean, I get emails from time to time, but it's honestly good fun sometimes. There are people who are just science enthusiasts who had a little pet theory, and then there are weird vixra papers. The former I just consider fun outreach if I find time to reply, and the latter, well, I might share with a few colleagues for a laugh. I don't reply to vixra cold emails, of course.",no,view comment
+55,,Calm-Shame-3685,18/02/23,1,,1,"This was me in college as a physics major. I’ll never understand the dark matter bandwagon. I just always assume I’m not smart enough to get it, but I continue to not see any real evidence for it being some wild, unknown thing and not just flawed math/observation.",no,view comment
+56,,Lower-Manager-1556,21/01/24,1,,1,Why does it have to be gravity?,no,view comment
+57,,colossuscollosal,09/04/24,,,0,"Would these factors stand given the new evidence from James Webb leading some to theorize that the universe is older than we thought, negating the need for dark matter? Or does it negate that?",no,view comment
+58,,isparavanje,09/04/24,1,,1,"The tired light hypothesis that you're referring to is not new at all. It's just that models based on tired light have not been able to fit all the various pieces of evidence; that hasn't changed.
+
+See: [https://www.science.org/content/article/tired-light-hypothesis-gets-re-tired](https://www.science.org/content/article/tired-light-hypothesis-gets-re-tired) and [https://en.wikipedia.org/wiki/Tired\_light](https://en.wikipedia.org/wiki/Tired_light)
+
+There is some new work where people have tried to show that tired light models can explain one thing, but doesn't mention any of the other pieces of evidence at all, and is unlikely to be able to accommodate some of them. I won't dismiss it out of hand, but at the very minimum it's really not a piece of work worthy of the huge press interest it has gotten.",no,view comment
+59,,colossuscollosal,09/04/24,1,,1,"thanks for the quick response - beyond tired light, does the fact that older galaxies exist account for the extra matter?",no,view comment
+60,,isparavanje,09/04/24,1,,1,"No, it doesn't do anything regarding the evidence for dark matter below cosmological scales.",no,view comment
+61,,colossuscollosal,09/04/24,1,,1,has there been measures on what new mass is found in those older galaxies and how much of it would need to be found to account for the dark matter to say there doesn’t need to be dark matter anymore? or it doesn’t work like that?,no,view comment
+62,,isparavanje,09/04/24,1,,1,"It doesn't work like this in the sense that JWST won't change the measurements enough to completely upend everything. Getting a new scientific experiment is like getting a better ruler. If you previously measured the length of something to be 0.25 ± 0.01 cm, you can certainly do better if you get a new and improved ruler, but you don't expect to suddenly measure 0.001 ± 0.001 cm.",no,view comment
+,,,,,,,,,
